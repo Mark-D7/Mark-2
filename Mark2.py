@@ -1,8 +1,8 @@
 import os
 
-Restaurantes = [{'nome':'la boca', 'categoria': 'pizza', 'ativo': False},
-{'nome':'sushi do rei', 'categoria': 'japonesa', 'ativo': True},
-{'nome':'manos brazzeiros', 'categoria': 'hamburguer', 'ativo': False}]
+Restaurantes = [{'nome':'La Boca', 'Categoria': 'Pizza', 'Ativo': False},
+{'nome':'Sushi do Rei', 'Categoria': 'Japonesa', 'Ativo': True},
+{'nome':'Manos Brazzeiros', 'Categoria': 'Hamburguer', 'Ativo': False}]
 
 def exibir_nome_do_programa():
     print('Sushi Boulevard\n')
