@@ -1,6 +1,6 @@
 import os
 
-Restaurantes = [{'nome':'la boca', 'categoria': 'pizza', 'ativo': False},
+Restaurantes = [{'nome':'pizza hut', 'categoria': 'pizza', 'ativo': False},
 {'nome':'sushi do rei', 'categoria': 'japonesa', 'ativo': True},
 {'nome':'manos brazzeiros', 'categoria': 'hamburguer', 'ativo': False}]
 
